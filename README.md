@@ -6,7 +6,7 @@
   <h1 align='center'> Contador de voltas </h1>
 
   <p align='center'>
-    <img src ="./images-readme/contador.png" style="max-width:70%" align="center">
+    <img src ="./images-readme/contador.png" width="400" align="center">
   </p>
   <br> 
   
@@ -25,24 +25,11 @@
     Projeto feito pra fixar os conceitos de UseEffect e UseState em ReactJS, onde temos um contador de voltas que também calcula média por volta, e totalmente responsivel.  você consegue acessar o projeto em funcionamento no Link abaixo: 
 </p>
 
-<h2 style="background-color:#5DADE2" align='center'  > 
+<h2 align='center' > 
 
  [Contador de voltas](https://w84l8.csb.app/) 
 
 </h2>
-
-<style>
-    a:link{
-    color: #F2F3F4;
-    text-decoration: none;
-
-  }
-  img{
-    margin: 5px 5px; 
-  }
-</style>
-
-
 
 
 ---
@@ -52,8 +39,9 @@
 <p>O projeto foi desenvolvido utilizando as seguintes tecnologias:</p>
 
 
-- [ReactJS](https://reactjs.org/) <img src="./images-readme/react.png" style="max-width:7%" align="center"> 
-- [CSS](https://www.typescriptlang.org/) <img src="./images-readme/css.png" style="max-width:5%" align="center">  
+- [ReactJS](https://reactjs.org/) <img src="./images-readme/react.png" width="50" align="center"> 
+
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) <img src="./images-readme/css.png" width="30" align="center">  
 
 ---
 
@@ -81,7 +69,13 @@ $ yarn start
 Desenvolvido 💻 por Gabriel Oliveira
 
 ---
- 👋 Check out my Linkedin [ <img src="./images-readme/linkedin.png" style="max-width:5%" align="center">  ](https://www.linkedin.com/in/gabriel-oliveira97/) 
+ 👋 Check out my Linkedin
+
+
+  [ <img src="./images-readme/linkedin.png" width="50" align="center">  ](https://www.linkedin.com/in/gabriel-oliveira97/) 
+  
+
+
 
 
 ​		
