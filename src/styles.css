@@ -1,0 +1,119 @@
+@import url('//fonts.googleapis.com/css2?family=Nunito:wght@300;600&display=swap');
+
+* {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    color: white;
+    background-color: #11DFFC;
+
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+     text-decoration: none;
+    
+    
+}
+
+.App{
+   
+    margin-left: 10rem;
+    margin-right: 10rem;
+    
+    
+}
+
+.voltas {
+    font-size: 1.5rem ;
+    font-weight: 600;
+}
+
+.voltas span{
+    font-size: 12rem;
+}
+
+
+.tempo span{
+    font-weight: 600;
+    font-size: 1.4rem;
+    
+}
+
+button{
+    background-color: #f9f9f9;
+    border: 1px solid black;
+    font-size: 1.5rem;
+    padding: 1.5rem;
+    margin: 0.5rem;
+    border: none;
+    color: #3D4141;
+   
+        
+}
+
+.button-increments{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 1rem;
+    
+
+}
+
+.ControlTime{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 1rem;
+    padding-bottom: 2rem;
+     
+}
+
+
+
+
+
+.bigger{
+    font-size: 0rem;
+    padding: 0rem;
+    margin: 0px;
+    background: none;
+    padding: 0 3rem 0 0;
+    
+
+}
+.icon{
+    background-color: #3D4141;
+    border: none;
+    border-radius: 50%;
+    font-size: 6rem;
+}
+.smaller{
+    font-size: 0rem;
+    padding: 0rem;
+    margin: 0px;
+    background: none;
+}
+
+@media(max-width: 720px){
+    html{
+        font-size: 80%;
+    }
+
+    .App{
+   
+        margin-left: 10rem;
+        margin-right: 10rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        
+    }
+
+  
+    
+
+
+
+}
